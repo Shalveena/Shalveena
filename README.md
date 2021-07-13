@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @Shalveena!
+👋 Hi, I’m @Shalveena!
 
-- 👀 I’m interested in front-end web development. I just finished a bootcamp where I learnt JavaScript, CSS, Bootstrap, and HTML.
+👀 ### A bit about me
 
-- 🌱 I’m currently learning React and practicing JavaScript to get better and better 😊
+I’m a front-end developer with a passion for collaborative creation. My love of learning and curiosity, coupled with an appetite for challenges led me to switch careers from law to software development. I have just finished an intensive, 13-week bootcamp learning the fundamentals of web development, which was just the beginning. I have so much more to explore and learn, and I am excited to see where this path leads.
 
-- 📫 How to reach me:
-      🔗LinkedIn: www.linkedin.com/in/shalveena-rohde 
+I am looking for a workplace where I can work together with people to build magic: to bring ideas to life through technology.
+
+🌱 ### What I'm learning
+
+I’m currently learning React and practicing JavaScript to get better and better 😊
+
+📫 ### How to reach me
+
+- 🔗LinkedIn: www.linkedin.com/in/shalveena-rohde
+
+🔨 ### Projects I've done
+
+- [Recipes Web App](https://github.com/Shalveena/jwd-recipesapp)
+- [To-do Web App](https://github.com/Shalveena/jwdfinalproject)
+- [One page quiz](https://github.com/Shalveena/jwd-js-assessment)
 
 <!---
 Shalveena/Shalveena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

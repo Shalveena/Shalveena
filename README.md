@@ -1,20 +1,18 @@
 👋 Hi, I’m @Shalveena!
 
-👀 ### A bit about me
+### 👀 A bit about me
 
 I’m a front-end developer with a passion for collaborative creation. My love of learning and curiosity, coupled with an appetite for challenges led me to switch careers from law to software development. I have just finished an intensive, 13-week bootcamp learning the fundamentals of web development, which was just the beginning. I have so much more to explore and learn, and I am excited to see where this path leads.
 
-I am looking for a workplace where I can work together with people to build magic: to bring ideas to life through technology.
-
-🌱 ### What I'm learning
+### 🌱 What I'm learning
 
 I’m currently learning React and practicing JavaScript to get better and better 😊
 
-📫 ### How to reach me
+### 📫 How to reach me
 
 - 🔗LinkedIn: www.linkedin.com/in/shalveena-rohde
 
-🔨 ### Projects I've done
+### 🔨 Projects I've done
 
 - [Recipes Web App](https://github.com/Shalveena/jwd-recipesapp)
 - [To-do Web App](https://github.com/Shalveena/jwdfinalproject)

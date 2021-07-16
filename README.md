@@ -14,6 +14,8 @@ I’m currently learning React and practicing JavaScript to get better and bette
 
 ### 🔨 Projects I've done
 
+- [Pig Game](https://shalveena.github.io/piggame/)
+- [Guess My Number Game](https://shalveena.github.io/checkmynumbergame/)
 - [Recipes Web App](https://github.com/Shalveena/jwd-recipesapp)
 - [To-do Web App](https://github.com/Shalveena/jwdfinalproject)
 - [One page quiz](https://github.com/Shalveena/jwd-js-assessment)

@@ -14,11 +14,11 @@ I’m currently learning React and practicing JavaScript to get better and bette
 
 ### 🔨 Projects I've done
 
-- [Pig Game](https://shalveena.github.io/piggame/)
-- [Guess My Number Game](https://shalveena.github.io/checkmynumbergame/)
-- [Recipes Web App](https://github.com/Shalveena/jwd-recipesapp)
-- [To-do Web App](https://github.com/Shalveena/jwdfinalproject)
-- [One page quiz](https://github.com/Shalveena/jwd-js-assessment)
+- [Pig Game](https://shalveena.github.io/piggame/) [GitHub repo](https://github.com/Shalveena/piggame)
+- [Guess My Number Game](https://shalveena.github.io/checkmynumbergame/) [GitHub repo](https://github.com/Shalveena/checkmynumbergame)
+- [Recipes Web App](https://shalveena.github.io/jwd-recipesapp/) [GitHub repo](https://github.com/Shalveena/jwd-recipesapp)
+- [To-do Web App](https://bspama.github.io/jwdfinalproject/) [GitHub repo](https://github.com/Shalveena/jwdfinalproject)
+- [One page quiz](https://shalveena.github.io/jwd-js-assessment/) [GitHub repo](https://github.com/Shalveena/jwd-js-assessment)
 
 <!---
 Shalveena/Shalveena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

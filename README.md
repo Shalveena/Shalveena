@@ -17,7 +17,7 @@ I’m currently learning React and practicing JavaScript to get better and bette
 - [Pig Game](https://shalveena.github.io/piggame/) ([GitHub repo](https://github.com/Shalveena/piggame))
 - [Guess My Number Game](https://shalveena.github.io/checkmynumbergame/) ([GitHub repo](https://github.com/Shalveena/checkmynumbergame))
 - [Recipes Web App](https://shalveena.github.io/jwd-recipesapp/) ([GitHub repo](https://github.com/Shalveena/jwd-recipesapp))
-- [To-do Web App](https://bspama.github.io/jwdfinalproject/) ([GitHub repo](https://github.com/Shalveena/jwdfinalproject))
+- [To-do Web App](https://shalveena.github.io/jwdfinalproject/) ([GitHub repo](https://github.com/Shalveena/jwdfinalproject))
 - [One page quiz](https://shalveena.github.io/jwd-js-assessment/) ([GitHub repo](https://github.com/Shalveena/jwd-js-assessment))
 
 <!---

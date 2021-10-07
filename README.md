@@ -1,4 +1,4 @@
-👋 Hi, I’m @Shalveena!
+👋 Hi, I’m Shalveena!
 
 ### 👀 A bit about me
 

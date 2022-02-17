@@ -6,7 +6,7 @@ I’m a front-end developer with a passion for collaborative creation. My love o
 
 ### 🌱 What I'm learning
 
-I’m currently learning React and practicing JavaScript to get better and better 😊
+I’m currently learning Go and practicing JavaScript to get better and better 😊
 
 ### 📫 How to reach me
 
